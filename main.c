@@ -9,6 +9,7 @@ void WinCheck(void);    // check for win
 int main()
 {   // main code
 
+	
     	init_matrix();
  	
  	
